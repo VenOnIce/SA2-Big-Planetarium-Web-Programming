@@ -3,7 +3,12 @@ Summative Assessment 2 for Web Programming
   - To explore the website, **start with Home.html**
   - NOTE: Since this is a prototype of the webpages, expect tags, classes, ID, and dividers that're overlooked and not removed.
 
-## The webpages include:
+## Instructions:
+  - Upon clicking on the link to this repository, the _BigPlanetariumPages_ folder will contain all the HTML, CSS, JS, and Rich Media needed to launch the website.
+  - If you're trying to find the CSS, Rich Media or JS, the location of these files are within their respective WebPage folders.
+  - If dowloading the WebPages, it's recommended to download the _BigPlanetariumPages_ folder.
+
+### The webpages include:
   - Home.html
   - Solar System.html
   - Galaxies.html
@@ -11,7 +16,7 @@ Summative Assessment 2 for Web Programming
   - Meteors.html
   - Novae.html
 
-## Why the extra content?
+### Why the extra content?
   What's a planetarium without the other wonders of space? Giving the client options with what to include in their final website with the prototype helps with brainstorming even if this action goes beyond what the client inquired.
 
 # Rich Media used for The Big Planetarium Website:
