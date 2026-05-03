@@ -14,7 +14,7 @@ Summative Assessment 2 for Web Programming
 ## Why the extra content?
   What's a planetarium without the other wonders of space? Giving the client options with what to include in their final website with the prototype helps with brainstorming even if this action goes beyond what the client inquired.
 
-# Images used for The Big Planetarium Website:
+# Rich Media used for The Big Planetarium Website:
   - Wallpaper Flare (2018).  _photo of milkyway galaxy HD wallpaper_ [Image]. Available at: https://www.wallpaperflare.com/photo-of-milkyway-galaxy-wallpaper-139960 (Accessed on: ‎26 ‎April ‎2026) 
   - The Nine Planets (2020) _Planets Transparent Background_ [Image]. Available at: https://nineplanets.org/planets-transparent-background/ (Accessed on: 24 ‎April ‎2026)
   - Deeks, R. (2026). _You live here. This is where Earth, our Sun and all the planets are found within our Galaxy_ [Image]. Available at: https://www.skyatnightmagazine.com/space-science/where-earth-in-milky-way (Accessed on: ‎28 ‎April ‎2026)
