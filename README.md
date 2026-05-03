@@ -1,5 +1,14 @@
 # SA2-Big-Planetarium-Web-Programming
 Summative Assessment 2 for Web Programming
+NOTE: Since this is a prototype of the webpages, expect tags, classes, ID, and dividers that're overlooked and not removed.
+
+## The webpages include:
+  - Home.html
+  - Solar System.html
+  - Galaxies.html
+  - Constellations.html
+  - Meteors.html
+  - Novae.html
 
 # Images used for The Big Planetarium Website:
 
