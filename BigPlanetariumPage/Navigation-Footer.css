@@ -1,0 +1,103 @@
+/* ########################## */
+/* ########################## */
+/* ########################## */
+/* ########################## */
+/* ########################## */
+/* ########################## */
+
+
+/* This CSS file is explicitly used for the Navigation and Footer divs only, this saves space in the respective page's own css file */
+
+
+body {
+    max-width: 100%;
+}
+
+/* NAVIGATION BAR */
+.planetariumnav {
+    box-shadow: 30%;
+    margin: -8px;
+}
+.planetariumnav ul {
+    z-index: 1000; /* Ensures it stays on top of content */
+    top: auto;
+    position: fixed;
+
+    margin: -10px;
+    background-color: white;
+
+    list-style: none;
+    display: flex;
+    font-size: 18px;
+    width: 100%;
+    height: 10%;
+    align-items: center;
+    justify-content: center;
+}
+
+.planetariumhover a {
+    padding: 15px;
+    width: max-content;
+    height: auto;
+    display: inline-flex;
+    color: black;
+    justify-content: flex-end;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none;
+    transition: opacity 0.3s ease;
+}
+
+.planetariumhover a:hover {
+    opacity: 60%;
+}
+
+#homelogo {
+    transition: opacity 0.3s ease;
+    width: 270px;
+    height: auto;
+    justify-content: flex-start;
+    margin-left: -6%;
+    margin-right: 35%;
+    margin-top: 4px;
+    padding: 0%;
+    display: flexbox;
+}
+
+#homelogo:hover {
+    opacity: 75%;
+}
+
+
+/* ########################## */
+/* ########################## */
+/* ########################## */
+/* ########################## */
+/* ########################## */
+/* ########################## */
+
+
+/* FOOTER */
+
+.footer {
+    list-style: none;
+    display: flex;
+    font-size: 18px;
+    color: white;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0), 255), rgb(0, 0, 0));
+    padding: 15px;
+    margin: 8px;
+    border: 10px;
+}
+
+.contactdetails {
+    display: block;
+    list-style: none;
+    margin-right: 5%;
+}
+
+.footerdivider {
+    border-left: 7px;
+    border-color: white;
+    border-style: block;
+    height: auto
+}
