@@ -1,6 +1,6 @@
 # SA2-Big-Planetarium-Web-Programming
 Summative Assessment 2 for Web Programming
-  - **To explore the website, start with Home.html**
+  - To explore the website, **start with Home.html**
   - NOTE: Since this is a prototype of the webpages, expect tags, classes, ID, and dividers that're overlooked and not removed.
 
 ## The webpages include:
